@@ -42,7 +42,7 @@
                   "scene.panel"
                 ],
                 "type": "panel",
-                "width": 768
+                "width": 600
               },
               {
                 "active": 0,
@@ -52,13 +52,13 @@
                   "timeline.panel"
                 ],
                 "type": "panel",
-                "width": 768
+                "width": 600
               }
             ],
             "height": 629,
             "row": false,
             "type": "dock",
-            "width": 768
+            "width": 600
           },
           {
             "active": 0,
@@ -67,7 +67,7 @@
               "inspector.panel"
             ],
             "type": "panel",
-            "width": 300
+            "width": 468
           }
         ],
         "no-collapse": true,
@@ -80,12 +80,6 @@
       "y": 151,
       "width": 800,
       "height": 622
-    },
-    "worker": {
-      "x": 520,
-      "y": 278,
-      "width": 400,
-      "height": 300
     }
   }
 }
