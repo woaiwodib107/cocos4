@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.plane",
+  "startScene": "f3f16d31-ad3e-4c2f-b18d-e193b4b6e11d",
+  "title": "plane",
+  "webOrientation": "auto"
+}
